@@ -14,15 +14,15 @@
 			<br>marketing and promotional materials.</p>
 		<p>Even more words go right here.
 		<br>Now these words will <strong>ABSOLUTELY</strong> be profound!</p>
-		<p>The Most Important Things to Know
-		<ul>
+        <p><strong>The Most Important Things to Know</strong>
+		<ol>
 			<li>She is super cool
                 <img src="images/cool.jpg" alt="einstein"></li>
 			<li>Is refered to as Lea The Master of Universe
                 <img src="images/universe.jpg" alt="universe"></li>
 			<li>She also can write code faster than a speeding lightyear. Q.E.D that Einstein
                 <img src="images/einstein.jpg" alt="einstein"></li>
-		</ul>
+		</ol>
 
 	</body>
 </html>
