@@ -4,7 +4,7 @@
 		<title>About Lea</title>
 	</head>
 	<body>
-		<p><img src="/images/20161203_160258-2.jpg">
+		<p><img src="/images/aboutlea.jpg">
 			<br>
 			Words go here.</p>
 		<br>
