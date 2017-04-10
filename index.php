@@ -20,5 +20,6 @@
 			<li>Is refered to as Lea The Master of Universe</li>
 			<li>She also can write code faster than a speeding lightyear. Q.E.D that Einstein</li>
 		</ul>
+        <img src="images/einstein.jpg.jpg" alt="einstein">
 	</body>
 </html>
