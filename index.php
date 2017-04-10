@@ -19,7 +19,7 @@
 		<ol>
 			<li>She is super cool
                 <img src="images/cool.jpg" alt="einstein"></li>
-			<li>Is refered to as Lea The Master of Universe
+			<li>Is refered to as Lea Master of Universe
                 <img src="images/universe.jpg" alt="universe"></li>
 			<li>She also can write code faster than a speeding lightyear. Q.E.D that Einstein
                 <img src="images/einstein.jpg" alt="einstein"></li>

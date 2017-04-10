@@ -1,4 +1,12 @@
 html {
     background-color:#f0f8ff;
-    font-size: larger;
+    font-size: 1em;
+
+}
+p {
+    font-size: 1.3em;
+}
+ol{
+    background-color: #f5fffa;
+    font-size: 1.7em;
 }
