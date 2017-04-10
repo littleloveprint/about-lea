@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<title>About Lea</title>
+        <link rel="stylesheet" href="style.css">
 	</head>
 	<body>
 		<h1>All About Lea</h1>
