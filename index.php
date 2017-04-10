@@ -10,8 +10,7 @@
 			<br>
 		<p>For the past ten years, I have worked
 			<br>in graphic design, brand development, and mastering the universe.
-			<br>Most work I've done has to do with
-			<br>both web design and creating
+			<br>Most work I've done has to do with both web design and creating
 			<br>marketing and promotional materials.</p>
 		<p>Even more words go right here.
 		<br>Now these words will <strong>ABSOLUTELY</strong> be profound!</p>
@@ -23,6 +22,8 @@
                 <img src="images/universe.jpg" alt="universe"></li>
 			<li>She also can write code faster than a speeding lightyear. Q.E.D that Einstein
                 <img src="images/einstein.jpg" alt="einstein"></li>
+            <li>Also here is a kitty
+                <img src="images/kitty.jpg" alt="kitty"></li>
 		</ol>
 
 	</body>
