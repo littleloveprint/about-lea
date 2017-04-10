@@ -8,17 +8,17 @@
 		<img src="images/aboutlea.jpg" alt="Lea" height="192" width="144">
 			<br>
 		<p>For the past ten years, I have worked
-			<br>in graphic design and brand development.
+			<br>in graphic design, brand development, and mastering the universe.
 			<br>Most work I've done has to do with
 			<br>both web design and creating
 			<br>marketing and promotional materials.</p>
 		<p>Even more words go right here.
 		<br>Now these words will <strong>ABSOLUTELY</strong> be profound!</p>
-		<p>Most Important Things to Know
+		<p>The Most Important Things to Know
 		<ul>
-			<li>One</li>
-			<li>Two</li>
-			<li>Three</li>
+			<li>She is super cool</li>
+			<li>Is refered to as Lea The Master of Universe</li>
+			<li>She also can write code faster than a speeding lightyear. Q.E.D that Einstein</li>
 		</ul>
 	</body>
 </html>
