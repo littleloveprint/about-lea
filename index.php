@@ -16,10 +16,13 @@
 		<br>Now these words will <strong>ABSOLUTELY</strong> be profound!</p>
 		<p>The Most Important Things to Know
 		<ul>
-			<li>She is super cool</li>
-			<li>Is refered to as Lea The Master of Universe</li>
-			<li>She also can write code faster than a speeding lightyear. Q.E.D that Einstein</li>
+			<li>She is super cool
+                <img src="images/cool.jpg.jpg" alt="einstein"></li>
+			<li>Is refered to as Lea The Master of Universe
+                <img src="images/universe.jpg.jpg" alt="universe"></li>
+			<li>She also can write code faster than a speeding lightyear. Q.E.D that Einstein
+                <img src="images/einstein.jpg" alt="einstein"></li>
 		</ul>
-        <img src="images/einstein.jpg.jpg" alt="einstein">
+
 	</body>
 </html>
