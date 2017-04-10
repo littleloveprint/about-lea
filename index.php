@@ -11,7 +11,7 @@
 		<p>For the past ten years, I have worked
 			<br>in graphic design, brand development, and mastering the universe.
 			<br>Most work I've done has to do with both web design and creating
-			<br>marketing and promotional materials.</p>
+			<br>marketing and promotional materials, along with being a ruler of a small nation</p>
 		<p>Even more words go right here.
 		<br>Now these words will <strong>ABSOLUTELY</strong> be profound!</p>
         <p><strong>The Most Important Things to Know</strong>
